@@ -53,13 +53,17 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 You can find images of the dashboards in the `Output` directory of this repository.
 
 #### Summary Dashboard
-![Summary Dashboard](/Output/Summary.png)
+![Summary Dashboard]
+![Summary](https://github.com/user-attachments/assets/494537e3-73e2-49bd-8fb6-7728e53baa43)
+)
 
 #### Overview Dashboard
-![Overview Dashboard](/Output/Overview.png)
+![Overview Dashboard](![Summary](https://github.com/user-attachments/assets/1e46ab2e-6331-4734-abe4-eff72967321e)
+/Output/Overview.png)
 
 #### Details Dashboard
-![Details Dashboard](/Output/Details.png)
+![Details Dashboard](![Details](https://github.com/user-attachments/assets/a5772ef2-6e61-48ac-9971-788c1eb6d48a)
+)
 
 ### Contributing
 
